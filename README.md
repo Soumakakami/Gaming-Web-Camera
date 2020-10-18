@@ -1,2 +1,2 @@
 # Gaming-Web-Camera
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+![kakami](https://i.imgur.com/1Mq1A5G.jpg "サンプル")
